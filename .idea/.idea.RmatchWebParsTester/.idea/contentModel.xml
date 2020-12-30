@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_RmatchWebParsTester.1173270718.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="RmatchWebParsTester" t="IncludeRecursive">
+        <e p="MainWindow.cs" t="Include" />
+        <e p="MainWindow.glade" t="Include" />
+        <e p="MainWindow.glade~" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Regex" t="Include">
+          <e p="Pars.cs" t="Include" />
+        </e>
+        <e p="RmatchWebParsTester.csproj" t="IncludeRecursive" />
+        <e p="WEB" t="Include">
+          <e p="web.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="RmatchWebParsTester.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="RmatchWebParsTester.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
