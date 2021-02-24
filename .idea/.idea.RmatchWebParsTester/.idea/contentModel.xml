@@ -14,6 +14,7 @@
         </e>
         <e p="RmatchWebParsTester.csproj" t="IncludeRecursive" />
         <e p="WEB" t="Include">
+          <e p="AuthorizationWEB.cs" t="Include" />
           <e p="web.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />

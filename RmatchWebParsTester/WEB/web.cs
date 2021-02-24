@@ -19,8 +19,8 @@ namespace RmatchWebParsTester
             {
                 downloadString = "error";
             }
-     
 
+            Console.WriteLine(downloadString);
             return downloadString;
         }
 
